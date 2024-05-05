@@ -27,7 +27,9 @@ Execute the C Program for the desired output.
 
 
 ## OUTPUT
+![Screenshot from 2024-05-05 16-06-44](https://github.com/mithra916/Linux-IPC-Shared-memory/assets/149986612/1f412e66-bf05-4f13-b5ac-75fe5e48c664)
 
+![Screenshot from 2024-05-05 16-07-02](https://github.com/mithra916/Linux-IPC-Shared-memory/assets/149986612/1ee8707f-0a62-41ea-b302-b7759ae12aa8)
 
 # RESULT:
 The program is executed successfully.
