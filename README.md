@@ -1,5 +1,7 @@
 # Linux-IPC-Shared-memory
 Ex06-Linux IPC-Shared-memory
+# Developed by:LOGA MITHRA.R
+# Register number:212223100027
 # AIM:
 To Write a C program that illustrates two processes communicating using shared memory.
 # DESIGN STEPS:
